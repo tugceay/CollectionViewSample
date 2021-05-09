@@ -2,7 +2,7 @@
 //  CollectionViewTests.swift
 //  CollectionViewTests
 //
-//  Created by Tugce Ayhan on 8.05.2021.
+//  Created by Tugce Aybak on 8.05.2021.
 //
 
 import XCTest
